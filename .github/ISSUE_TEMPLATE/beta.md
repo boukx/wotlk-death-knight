@@ -1,14 +1,14 @@
 ---
-name: Alpha
-about: Create a report for Alpha version - Classic Wotlk
+name: Beta
+about: Create a report for Beta version - Classic Wotlk
 title: ''
-labels: 1-WotLK_Alpha
+labels: WotLK_Beta
 assignees: ''
 
 ---
 
 **Game Version:**
-> e.g. 3.4.0 Alpha Build 44301
+> e.g. 3.4.0 Build 44301
 
 **Description:**
 > Briefly describe your bug (can be same as issue title).
